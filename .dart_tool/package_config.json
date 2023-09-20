@@ -45,9 +45,9 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/file-7.0.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/file-6.1.4",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter",
@@ -171,7 +171,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/win32-5.0.7",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/win32-5.0.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-08T19:30:24.079364Z",
+  "generated": "2023-09-20T08:30:15.811370Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.1.2"
 }

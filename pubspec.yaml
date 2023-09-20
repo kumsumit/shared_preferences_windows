@@ -17,7 +17,7 @@ flutter:
         dartPluginClass: SharedPreferencesWindows
 
 dependencies:
-  file: ^7.0.0
+  file: ^6.1.4
   flutter:
     sdk: flutter
   path: ^1.8.3
