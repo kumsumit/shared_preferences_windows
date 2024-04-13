@@ -3,11 +3,11 @@ publish_to: none
 description: Windows implementation of shared_preferences
 repository: https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences_windows
 issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+shared_preferences%22
-version: 2.3.1
+version: 2.3.2
 
 environment:
-  sdk: ">=3.1.0 <4.0.0"
-  flutter: ">=3.13.0"
+  sdk: ">=3.3.3 <4.0.0"
+  flutter: ">=3.19.5"
 
 flutter:
   plugin:
@@ -17,10 +17,10 @@ flutter:
         dartPluginClass: SharedPreferencesWindows
 
 dependencies:
-  file: ^6.1.4
+  file: ">=7.0.0 <8.0.0"
   flutter:
     sdk: flutter
-  path: ^1.8.3
+  path: ^1.9.0
   path_provider_platform_interface: 
     git: https://github.com/kumsumit/path_provider_platform_interface.git
   path_provider_windows:
